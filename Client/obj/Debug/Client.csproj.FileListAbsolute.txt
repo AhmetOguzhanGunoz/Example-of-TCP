@@ -1,0 +1,12 @@
+c:\Users\1201020005\documents\visual studio 2015\Projects\TCP\Client\bin\Debug\Client.exe.config
+c:\Users\1201020005\documents\visual studio 2015\Projects\TCP\Client\bin\Debug\Client.exe
+c:\Users\1201020005\documents\visual studio 2015\Projects\TCP\Client\bin\Debug\Client.pdb
+c:\Users\1201020005\documents\visual studio 2015\Projects\TCP\Client\obj\Debug\Client.exe
+c:\Users\1201020005\documents\visual studio 2015\Projects\TCP\Client\obj\Debug\Client.pdb
+c:\Users\1201020005\documents\visual studio 2015\Projects\TCP\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\UNIVERSITY\LESSONS\COMPUTER NETWORKS(6.Yarıyıl)\25.02.2016 comp\TCP\TCP\Client\bin\Debug\Client.exe.config
+D:\UNIVERSITY\LESSONS\COMPUTER NETWORKS(6.Yarıyıl)\25.02.2016 comp\TCP\TCP\Client\bin\Debug\Client.exe
+D:\UNIVERSITY\LESSONS\COMPUTER NETWORKS(6.Yarıyıl)\25.02.2016 comp\TCP\TCP\Client\bin\Debug\Client.pdb
+D:\UNIVERSITY\LESSONS\COMPUTER NETWORKS(6.Yarıyıl)\25.02.2016 comp\TCP\TCP\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\UNIVERSITY\LESSONS\COMPUTER NETWORKS(6.Yarıyıl)\25.02.2016 comp\TCP\TCP\Client\obj\Debug\Client.exe
+D:\UNIVERSITY\LESSONS\COMPUTER NETWORKS(6.Yarıyıl)\25.02.2016 comp\TCP\TCP\Client\obj\Debug\Client.pdb
